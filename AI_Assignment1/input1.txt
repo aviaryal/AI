@@ -1,0 +1,11 @@
+A B 8
+A C 8
+A D 4
+B E 8
+D E 4
+D C 2
+D F 6
+C F 8
+E G 8
+F G 8
+END OF INPUT
